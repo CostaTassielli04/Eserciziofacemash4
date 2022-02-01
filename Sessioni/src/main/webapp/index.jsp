@@ -8,7 +8,7 @@
     <body>  
         
         <form action="session.jsp"> 
-            <label for="uname">Name:</label> 
+            <label for="uname">Ok vai:</label> 
             <input type="text" name="uname">
             <label for="uname">booooo:</label>
             <input type="text" name="email">
